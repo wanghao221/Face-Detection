@@ -108,4 +108,4 @@ plt.show()
 
 回复【进群】领书不迷路，群内 <font color="#e66b6d">每位成员</font> 我都会送一本。回复【资源】可获取上面的资料👇🏻👇🏻👇🏻**
 
-<img src="https://img-blog.csdnimg.cn/07d5c80f7ae44ca7b8d441cc0c19943f.png#pic_center%E2%80%9D"#pic_center =400x>
+<img src="https://img-blog.csdnimg.cn/07d5c80f7ae44ca7b8d441cc0c19943f.png#pic_center%E2%80%9D" width=400x>
